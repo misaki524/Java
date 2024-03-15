@@ -1,0 +1,21 @@
+INFO  11:27:43.141 [ForkJoinPool-1-worker-2] (LauncherEclipseTransformer) Eclipse version [4.21] year [2024] buildId [4.21.1.202402070844]
+INFO  11:27:43.178 [ForkJoinPool-2-worker-1] (UpdateDetector) ファイル更新最終時刻 (前回): 1970-01-01 09:00:00
+INFO  11:27:43.140 [ForkJoinPool-2-worker-2] (LauncherTransformer) キャッシュが存在しないため、強制的に -clean モードで起動します。
+INFO  11:27:43.180 [ForkJoinPool-2-worker-1] (UpdateDetector) ファイル更新検出: 2024-02-07 18:01:36 /Applications/SpringToolSuite4.app/Contents/Eclipse/plugins/org.eclipse.equinox.p2.metadata.repository_1.5.200.v20231021-1438.jar
+INFO  11:27:43.167 [ForkJoinPool-1-worker-3] (LauncherTransformer) Pleiades AOP 起動トランスフォーマーを開始します。LauncherEclipseTransformer 0.017 秒
+INFO  11:27:43.181 [ForkJoinPool-2-worker-1] (UpdateDetector) ファイル更新検出: 2024-02-07 18:01:38 /Applications/SpringToolSuite4.app/Contents/Eclipse/plugins/org.eclipse.wildwebdeveloper_1.1.4.202311211923
+INFO  11:27:43.182 [ForkJoinPool-2-worker-1] (UpdateDetector) ファイル更新検出: 2024-02-07 18:01:39 /Applications/SpringToolSuite4.app/Contents/Eclipse/plugins/org.eclipse.osgi_3.18.600.v20231110-1900.jar
+INFO  11:27:43.184 [ForkJoinPool-2-worker-1] (UpdateDetector) ファイル更新検出: 2024-03-11 11:27:14 /Applications/SpringToolSuite4.app/Contents/Eclipse/dropins/MergeDoc/eclipse/plugins/jp.sourceforge.mergedoc.pleiades
+INFO  11:27:43.186 [ForkJoinPool-2-worker-1] (UpdateDetector) ファイル更新最終時刻 (今回): 2024-03-11 11:27:14
+INFO  11:27:43.186 [ForkJoinPool-1-worker-2] (LauncherEclipseTransformer) スプラッシュ画像: splash.bmp - /Applications/SpringToolSuite4.app/Contents/Eclipse/dropins/MergeDoc/eclipse/plugins/jp.sourceforge.mergedoc.pleiades/conf/images
+INFO  11:27:43.233 [ForkJoinPool-1-worker-4] (PleiadesConfig) Pleiades 構成ファイルをロードしました。pleiades-config.xml
+INFO  11:27:43.279 [ForkJoinPool-1-worker-3] (LauncherTransformer) -clean 元引数:false 確定後:true
+INFO  11:27:43.283 [ForkJoinPool-1-worker-3] (CacheFilez) すべてのキャッシュ・ファイルをクリアしました。
+INFO  11:27:43.283 [ForkJoinPool-1-worker-3] (TransformedClassCache) transformed-class.cache が存在しません。
+INFO  11:27:43.284 [main] (CleanMessage) クリーン起動します。(クリーン・メッセージ表示 OFF)
+INFO  11:27:43.283 [ForkJoinPool-1-worker-3] (ExcludeClassNameCache) exclude-class.list が存在しません。
+INFO  11:27:43.284 [ForkJoinPool-1-worker-3] (LauncherTransformer) Pleiades AOP 翻訳トランスフォーマーを開始します。
+INFO  11:27:45.036 [Framework Event Dispatche] (LauncherEclipseTransformer) 起動時のトランスフォーム: org.eclipse.ui.internal.Workbench
+INFO  11:28:05.855 [main] (LauncherEclipseTransformer) 起動時のトランスフォーム: org.eclipse.ui.application.WorkbenchAdvisor
+INFO  11:28:06.532 [main] (LauncherEclipseTransformer) 起動時のトランスフォーム: org.eclipse.core.resources.ResourcesPlugin
+INFO  11:28:11.183 [ForkJoinPool-1-worker-3] (Analyses) Eclipse 起動完了 - 起動時間: 27.902 秒。-clean:true
